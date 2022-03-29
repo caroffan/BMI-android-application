@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/mail"
+        android:icon="@drawable/mail"
+        android:title="mail"
+        app:showAsAction="ifRoom"/>
+
+
+
+    <item
+        android:id="@+id/calendar"
+        android:icon="@drawable/calendar"
+        android:title="calendar"
+        app:showAsAction="ifRoom"/>
+    <!-- "Réglages" apparaît dans le menu de débordement -->
+
+
+
+
+
+</menu>
